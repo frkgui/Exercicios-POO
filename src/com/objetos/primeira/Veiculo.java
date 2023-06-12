@@ -1,6 +1,6 @@
 package com.objetos.primeira;
 
-public class Veículo {
+public class Veiculo {
 
     String nome,cor;
     int numeroDeRodas, velocidade = 0;
